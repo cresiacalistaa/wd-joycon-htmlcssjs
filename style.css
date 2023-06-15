@@ -1,0 +1,27 @@
+.controller{
+    background-color:lightsteelblue;   
+    background-size: 5px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    width: 20%;
+    border-radius: 30px;
+    }
+    
+    .controller1 button{
+        position:relative;
+        border-radius: 20px;
+        padding: 20px;
+        margin-right:30px
+        
+    
+       
+    }
+
+    .controller234{
+        position:relative;
+        border-radius: 20px;
+        padding: 20px;
+        margin-right:30px
+    }
+
+    
